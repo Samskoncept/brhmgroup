@@ -1,0 +1,198 @@
+07-06-2023 13:08:16 - INFO  - 7.8.0 - 60.4 MB/1 GB - [cron] > Start upgrade from 7.0.0
+07-06-2023 13:08:16 - INFO  - 7.8.0 - 66.7 MB/1 GB - [cron] > Array
+(
+    [`wpki_newsletter_emails`] => Created table `wpki_newsletter_emails`
+)
+
+07-06-2023 13:08:16 - INFO  - 7.8.0 - 66.7 MB/1 GB - [cron] > Array
+(
+    [`wpki_newsletter_sent`] => Created table `wpki_newsletter_sent`
+)
+
+07-06-2023 13:08:16 - INFO  - 7.8.0 - 66.7 MB/1 GB - [cron] > Array
+(
+    [`wpki_newsletter`] => Created table `wpki_newsletter`
+    [wpki_newsletter.source] => Added column wpki_newsletter.source
+)
+
+07-06-2023 13:08:16 - INFO  - 7.8.0 - 66.7 MB/1 GB - [cron] > Array
+(
+    [`wpki_newsletter_user_logs`] => Created table `wpki_newsletter_user_logs`
+)
+
+07-06-2023 13:08:16 - INFO  - 7.8.0 - 66.7 MB/1 GB - [cron] > Array
+(
+    [`wpki_newsletter_stats`] => Created table `wpki_newsletter_stats`
+)
+
+07-06-2023 13:08:16 - INFO  - 7.8.0 - 66.7 MB/1 GB - [cron] > Migration to 7.8.0
+07-06-2023 13:08:16 - INFO  - 7.8.0 - 66.7 MB/1 GB - [cron] > Backing up options of 7.0.0
+07-06-2023 13:08:16 - INFO  - 7.8.0 - 66.8 MB/1 GB - [cron] > End
+08-06-2023 18:08:25 - INFO  - 7.8.2 - 65.3 MB/1 GB -  > Start upgrade from 7.8.0
+08-06-2023 18:08:25 - INFO  - 7.8.2 - 68.5 MB/1 GB -  > Array
+(
+    [`wpki_newsletter_emails`] => Created table `wpki_newsletter_emails`
+)
+
+08-06-2023 18:08:25 - INFO  - 7.8.2 - 68.5 MB/1 GB -  > Array
+(
+    [`wpki_newsletter_sent`] => Created table `wpki_newsletter_sent`
+)
+
+08-06-2023 18:08:25 - INFO  - 7.8.2 - 68.6 MB/1 GB -  > Array
+(
+    [`wpki_newsletter`] => Created table `wpki_newsletter`
+)
+
+08-06-2023 18:08:25 - INFO  - 7.8.2 - 68.5 MB/1 GB -  > Array
+(
+    [`wpki_newsletter_user_logs`] => Created table `wpki_newsletter_user_logs`
+)
+
+08-06-2023 18:08:25 - INFO  - 7.8.2 - 68.5 MB/1 GB -  > Array
+(
+    [`wpki_newsletter_stats`] => Created table `wpki_newsletter_stats`
+)
+
+08-06-2023 18:08:25 - INFO  - 7.8.2 - 68.5 MB/1 GB -  > Backing up options of 7.8.0
+08-06-2023 18:08:25 - INFO  - 7.8.2 - 68.6 MB/1 GB -  > End
+09-06-2023 06:31:50 - INFO  - 7.8.3 - 65.3 MB/1 GB -  > Start upgrade from 7.8.2
+09-06-2023 06:31:50 - INFO  - 7.8.3 - 68.5 MB/1 GB -  > Array
+(
+    [`wpki_newsletter_emails`] => Created table `wpki_newsletter_emails`
+)
+
+09-06-2023 06:31:50 - INFO  - 7.8.3 - 68.6 MB/1 GB -  > Array
+(
+    [`wpki_newsletter_sent`] => Created table `wpki_newsletter_sent`
+)
+
+09-06-2023 06:31:50 - INFO  - 7.8.3 - 68.6 MB/1 GB -  > Array
+(
+    [`wpki_newsletter`] => Created table `wpki_newsletter`
+)
+
+09-06-2023 06:31:50 - INFO  - 7.8.3 - 68.5 MB/1 GB -  > Array
+(
+    [`wpki_newsletter_user_logs`] => Created table `wpki_newsletter_user_logs`
+)
+
+09-06-2023 06:31:50 - INFO  - 7.8.3 - 68.5 MB/1 GB -  > Array
+(
+    [`wpki_newsletter_stats`] => Created table `wpki_newsletter_stats`
+)
+
+09-06-2023 06:31:50 - INFO  - 7.8.3 - 68.5 MB/1 GB -  > Backing up options of 7.8.2
+09-06-2023 06:31:50 - INFO  - 7.8.3 - 68.6 MB/1 GB -  > End
+10-06-2023 10:03:40 - INFO  - 7.8.4 - 70.7 MB/1 GB - brhmgroup > Start upgrade from 7.8.3
+10-06-2023 10:03:40 - INFO  - 7.8.4 - 72.9 MB/1 GB - brhmgroup > Array
+(
+    [`wpki_newsletter_emails`] => Created table `wpki_newsletter_emails`
+)
+
+10-06-2023 10:03:40 - INFO  - 7.8.4 - 73.0 MB/1 GB - brhmgroup > Array
+(
+    [`wpki_newsletter_sent`] => Created table `wpki_newsletter_sent`
+)
+
+10-06-2023 10:03:40 - INFO  - 7.8.4 - 73.0 MB/1 GB - brhmgroup > Array
+(
+    [`wpki_newsletter`] => Created table `wpki_newsletter`
+)
+
+10-06-2023 10:03:40 - INFO  - 7.8.4 - 72.9 MB/1 GB - brhmgroup > Array
+(
+    [`wpki_newsletter_user_logs`] => Created table `wpki_newsletter_user_logs`
+)
+
+10-06-2023 10:03:40 - INFO  - 7.8.4 - 72.9 MB/1 GB - brhmgroup > Array
+(
+    [`wpki_newsletter_stats`] => Created table `wpki_newsletter_stats`
+)
+
+10-06-2023 10:03:40 - INFO  - 7.8.4 - 72.9 MB/1 GB - brhmgroup > Backing up options of 7.8.3
+10-06-2023 10:03:41 - INFO  - 7.8.4 - 73.0 MB/1 GB - brhmgroup > End
+14-06-2023 13:15:58 - INFO  - 7.8.5 - 63.4 MB/1 GB - [cron] > Start upgrade from 7.8.4
+14-06-2023 13:15:58 - INFO  - 7.8.5 - 67.4 MB/1 GB - [cron] > Array
+(
+    [`wpki_newsletter_emails`] => Created table `wpki_newsletter_emails`
+)
+
+14-06-2023 13:15:58 - INFO  - 7.8.5 - 67.4 MB/1 GB - [cron] > Array
+(
+    [`wpki_newsletter_sent`] => Created table `wpki_newsletter_sent`
+)
+
+14-06-2023 13:15:58 - INFO  - 7.8.5 - 67.4 MB/1 GB - [cron] > Array
+(
+    [`wpki_newsletter`] => Created table `wpki_newsletter`
+)
+
+14-06-2023 13:15:58 - INFO  - 7.8.5 - 67.4 MB/1 GB - [cron] > Array
+(
+    [`wpki_newsletter_user_logs`] => Created table `wpki_newsletter_user_logs`
+)
+
+14-06-2023 13:15:58 - INFO  - 7.8.5 - 67.4 MB/1 GB - [cron] > Array
+(
+    [`wpki_newsletter_stats`] => Created table `wpki_newsletter_stats`
+)
+
+14-06-2023 13:15:58 - INFO  - 7.8.5 - 67.4 MB/1 GB - [cron] > Backing up options of 7.8.4
+14-06-2023 13:15:58 - INFO  - 7.8.5 - 67.5 MB/1 GB - [cron] > End
+21-06-2023 22:02:16 - INFO  - 7.8.6 - 71.9 MB/1 GB - brhmgroup > Start upgrade from 7.8.5
+21-06-2023 22:02:16 - INFO  - 7.8.6 - 74.2 MB/1 GB - brhmgroup > Array
+(
+    [`wpki_newsletter_emails`] => Created table `wpki_newsletter_emails`
+)
+
+21-06-2023 22:02:16 - INFO  - 7.8.6 - 74.2 MB/1 GB - brhmgroup > Array
+(
+    [`wpki_newsletter_sent`] => Created table `wpki_newsletter_sent`
+)
+
+21-06-2023 22:02:16 - INFO  - 7.8.6 - 74.2 MB/1 GB - brhmgroup > Array
+(
+    [`wpki_newsletter`] => Created table `wpki_newsletter`
+)
+
+21-06-2023 22:02:16 - INFO  - 7.8.6 - 74.2 MB/1 GB - brhmgroup > Array
+(
+    [`wpki_newsletter_user_logs`] => Created table `wpki_newsletter_user_logs`
+)
+
+21-06-2023 22:02:16 - INFO  - 7.8.6 - 74.2 MB/1 GB - brhmgroup > Array
+(
+    [`wpki_newsletter_stats`] => Created table `wpki_newsletter_stats`
+)
+
+21-06-2023 22:02:16 - INFO  - 7.8.6 - 74.2 MB/1 GB - brhmgroup > Backing up options of 7.8.5
+21-06-2023 22:02:16 - INFO  - 7.8.6 - 74.2 MB/1 GB - brhmgroup > End
+23-06-2023 10:44:24 - INFO  - 7.8.7 - 66.5 MB/1 GB -  > Start upgrade from 7.8.6
+23-06-2023 10:44:24 - INFO  - 7.8.7 - 69.7 MB/1 GB -  > Array
+(
+    [`wpki_newsletter_emails`] => Created table `wpki_newsletter_emails`
+)
+
+23-06-2023 10:44:24 - INFO  - 7.8.7 - 69.7 MB/1 GB -  > Array
+(
+    [`wpki_newsletter_sent`] => Created table `wpki_newsletter_sent`
+)
+
+23-06-2023 10:44:24 - INFO  - 7.8.7 - 69.7 MB/1 GB -  > Array
+(
+    [`wpki_newsletter`] => Created table `wpki_newsletter`
+)
+
+23-06-2023 10:44:24 - INFO  - 7.8.7 - 69.7 MB/1 GB -  > Array
+(
+    [`wpki_newsletter_user_logs`] => Created table `wpki_newsletter_user_logs`
+)
+
+23-06-2023 10:44:24 - INFO  - 7.8.7 - 69.7 MB/1 GB -  > Array
+(
+    [`wpki_newsletter_stats`] => Created table `wpki_newsletter_stats`
+)
+
+23-06-2023 10:44:24 - INFO  - 7.8.7 - 69.7 MB/1 GB -  > Backing up options of 7.8.6
+23-06-2023 10:44:24 - INFO  - 7.8.7 - 69.8 MB/1 GB -  > End

@@ -1,0 +1,103 @@
+/***********************************************************/
+html {
+  display: none;
+}
+.darklup-admin-dark-mode-enabled a:focus-visible,
+.darklup-admin-dark-mode-enabled a:focus {
+  outline: none !important;
+}
+
+/* For Dynamic Contents */
+.darklup-admin-dark-mode-enabled .wpc-darklup-observer--node .wpc--darklup--observed,
+.darklup-admin-dark-mode-enabled .wpc-darklup-observer--node {
+  color: var(--wpc-darklup--text-color) !important;
+  background-color: var(--wpc-darklup--bg) !important;
+  border-color: var(--wpc-darklup--border-color) !important;
+}
+.darklup-admin-dark-mode-enabled .wpc-darklup-observer--node .wpc--darklup--observed::before {
+  color: var(--wpc-darklup--text-color) !important;
+}
+
+/* Global */
+.darklup-admin-dark-mode-enabled .darklup--bg {
+  background-color: var(--wpc-darklup--bg) !important;
+}
+
+.darklup-admin-dark-mode-enabled .darklup--secondary-bg {
+  background-color: var(--wpc-darklup--secondary-bg) !important;
+}
+.darklup-admin-dark-mode-enabled .darklup--tertiary-bg {
+  background-color: var(--wpc-darklup--tertiary-bg) !important;
+}
+
+.darklup-admin-dark-mode-enabled del.wpc--darklup-element,
+.darklup-admin-dark-mode-enabled i:before,
+.darklup-admin-dark-mode-enabled .darklup--text-before:before,
+.darklup-admin-dark-mode-enabled .darklup--text:not(a):not(a *) {
+  color: var(--wpc-darklup--text-color) !important;
+}
+.darklup-admin-dark-mode-enabled .darklup--border {
+  border-color: var(--wpc-darklup--border-color) !important;
+}
+
+.darklup-admin-dark-mode-enabled .wpc--darklup-non-bg-box-shadow {
+  background-color: rgba(168, 168, 168, 0.1) !important;
+}
+.darklup-admin-dark-mode-enabled .darklup--img {
+  filter: var(--wpc-darklup--img-filter) !important;
+}
+
+.darklup-admin-dark-mode-enabled .darklup--inline-svg {
+  filter: var(--wpc-darklup--svg-filter) !important;
+}
+
+/* Link Button */
+.darklup-admin-dark-mode-enabled .darklup--link *,
+.darklup-admin-dark-mode-enabled .darklup--link {
+  border-color: var(--wpc-darklup--border-color) !important;
+  color: var(--wpc-darklup--link-color) !important;
+}
+.darklup-admin-dark-mode-enabled .darklup--link i:before {
+  color: var(--wpc-darklup--link-color) !important;
+}
+.darklup-admin-dark-mode-enabled .darklup--link svg {
+  fill: var(--wpc-darklup--link-color) !important;
+}
+
+.darklup-admin-dark-mode-enabled .darklup--link:hover {
+  color: var(--wpc-darklup--link-hover-color) !important;
+}
+
+/*Input Styles*/
+.darklup-admin-dark-mode-enabled .darklup--input {
+  background-color: var(--wpc-darklup--input-bg) !important;
+  color: var(--wpc-darklup--input-text-color) !important;
+  border-color: var(--wpc-darklup--border-color) !important;
+}
+
+.darklup-admin-dark-mode-enabled .darklup--input::placeholder {
+  color: var(--wpc-darklup--text-color) !important;
+}
+
+.darklup-admin-dark-mode-enabled .darklup--input:focus,
+.darklup-admin-dark-mode-enabled .darklup--input:focus-visible {
+  outline: none !important;
+}
+
+/*Button Styles*/
+.darklup-admin-dark-mode-enabled .darklup--btn {
+  background-color: var(--wpc-darklup--btn-bg) !important;
+  color: var(--wpc-darklup--btn-text-color) !important;
+  border-color: var(--wpc-darklup--border-color) !important;
+}
+
+.darklup-admin-dark-mode-enabled .darklup-main-area > .darklup-row {
+  background-color: var(--wpc-darklup--bg) !important;
+}
+.darklup-admin-dark-mode-enabled .darklup-main-area .darklup-row .darklup-col-md-3 {
+  background-color: var(--wpc-darklup--tertiary-bg) !important;
+}
+.darklup-admin-dark-mode-enabled .darklup-main-area .darklup-settings-area,
+.darklup-admin-dark-mode-enabled .darklup-main-area .darklup-settings-area .darklup-settings-content {
+  background-color: var(--wpc-darklup--bg) !important;
+}

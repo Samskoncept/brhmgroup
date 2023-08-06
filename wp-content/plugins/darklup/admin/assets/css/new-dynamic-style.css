@@ -1,0 +1,26 @@
+html {
+  display: none;
+}
+html.darklup-admin-dark-mode-enabled *:not(.darklup-dark-ignore):not(.darklup-dark-ignore *) {
+  color: rgb(237 237 237) !important;
+}
+html.darklup-admin-dark-mode-enabled *:not(:is(.darklup-dark-ignore, .darklup-dark-ignore *)):before,
+html.darklup-admin-dark-mode-enabled *:not(:is(.darklup-dark-ignore, .darklup-dark-ignore *)):after {
+  color: #ddd !important;
+}
+.darklup-admin-dark-mode-enabled .darklup-admin-settings-area .on-off-toggle__input + .on-off-toggle__slider {
+  border: 1px solid #fff !important;
+}
+.darklup-admin-dark-mode-enabled .darklup-admin-settings-area .on-off-toggle__input + .on-off-toggle__slider:not(.darklup-dark-ignore) {
+  border-color: rgb(237 237 237) !important;
+  border-top-color: rgb(237 237 237) !important;
+  border-right-color: rgb(237 237 237) !important;
+  border-bottom-color: rgb(237 237 237) !important;
+  border-left-color: rgb(237 237 237) !important;
+}
+.darklup-admin-dark-mode-enabled .darklup-admin-settings-area .on-off-toggle__slider:before {
+  background-color: rgb(237 237 237) !important;
+}
+.darklup-admin-dark-mode-enabled .wp-picker-container .wp-color-result-text {
+  color: rgb(237 237 237) !important;
+}

@@ -1,0 +1,737 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Darklup - WP Dark Mode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-22 18:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.5.3\n"
+"X-Domain: darklup"
+
+#: admin/admin-templates/template-image-settings.php:50
+msgid "0.5"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:68
+msgid "14"
+msgstr ""
+
+#: darklup.php:69
+msgid "Active License"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:123
+msgid "Admin Custom Background Color"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:147
+msgid "Admin Custom Border Color"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:135
+msgid "Admin Custom Link Color"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:141
+msgid "Admin Custom Link Hover Color"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:129
+msgid "Admin Custom Text Color"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:98
+msgid "Admin Darkmode Color Preset"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:93
+msgid "Admin Darkmode Color Preset Enabled"
+msgstr ""
+
+#: page-builder/elementor-widget/elementor-darkmode-switch.php:68
+msgid "Alignment"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"All in one WordPress plugin to create a stunning dark version for your "
+"WordPress website and dashboard"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:104
+msgid ""
+"Are we missing any feature that you need a lot? We are requesting you to do "
+"a feature request so we can add that feature o our next update"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:103
+msgid "ARE WE MISSING ANY FEATURE?"
+msgstr ""
+
+#: admin/admin-templates/template-advance-settings.php:43
+msgid "Automatically turn on the dark mode between a given time range."
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:58
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:57
+msgid "Bottom Right "
+msgstr ""
+
+#: page-builder/elementor-widget/elementor-darkmode-switch.php:76
+#: page-builder/wpbakery/vc-darkmode-switch.php:44
+msgid "Center"
+msgstr ""
+
+#: darklup.php:352
+msgid ""
+"Check Your Email For License Code And Paste The code here. Then click on "
+"activate"
+msgstr ""
+
+#: admin/setting-fields/color-picker.php:21
+msgid "Color Picker"
+msgstr ""
+
+#: page-builder/wpbakery/vc-darkmode-switch.php:24
+msgid "Content"
+msgstr ""
+
+#: admin/setting-fields/css-editor.php:24
+msgid "CSS Editor Field"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:63
+msgid "Custom Background Color"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:87
+msgid "Custom Border Color"
+msgstr ""
+
+#: admin/admin-templates/template-custom-css.php:32
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/admin-templates/template-custom-css.php:23
+msgid "CUSTOM CSS SETTINGS"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:75
+msgid "Custom Link Color"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:81
+msgid "Custom Link Hover Color"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:69
+msgid "Custom Text Color"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:118
+msgid "Customize the admin darkmode background, text and link colors."
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:58
+msgid "Customize the darkmode background, text and link colors."
+msgstr ""
+
+#: inc/class-dark-inline-css.php:86
+msgid "Dark"
+msgstr ""
+
+#: admin/setting-fields/image-repeater.php:65
+msgid "Dark Image Url"
+msgstr ""
+
+#: admin/admin-templates/template-advance-settings.php:54
+msgid "Dark Mode End Time"
+msgstr ""
+
+#: admin/admin-templates/template-image-settings.php:53
+msgid "Dark Mode Image Upload"
+msgstr ""
+
+#: admin/admin-templates/template-advance-settings.php:47
+msgid "Dark Mode Start Time"
+msgstr ""
+
+#: inc/class-hooks.php:167 page-builder/wp-widget/widget-darkmode-switch.php:56
+#: page-builder/wpbakery/vc-darkmode-switch.php:20
+msgid "Dark Mode Switch"
+msgstr ""
+
+#: page-builder/elementor-widget/elementor-darkmode-switch.php:51
+#: page-builder/wpbakery/vc-darkmode-switch.php:33
+#: page-builder/wpbakery/vc-darkmode-switch.php:41
+msgid "Dark Mode Switch Settings"
+msgstr ""
+
+#. Author of the plugin
+#: admin/admin.php:47
+msgid "Darklup"
+msgstr ""
+
+#. Name of the plugin
+msgid "Darklup - WP Dark Mode"
+msgstr ""
+
+#: darklup.php:270
+msgid "Darklup License Info"
+msgstr ""
+
+#: darklup.php:339
+msgid "Darklup Licensing"
+msgstr ""
+
+#: admin/admin.php:48
+msgid "Darklup Settings"
+msgstr ""
+
+#: page-builder/elementor-widget/elementor-darkmode-switch.php:33
+msgid "Darkmode Switch"
+msgstr ""
+
+#. Widget name will appear in UI
+#: page-builder/wp-widget/widget-darkmode-switch.php:26
+msgid "Darkmode Switch [Darklup]"
+msgstr ""
+
+#: admin/admin-templates/template-advance-settings.php:31
+msgid "Darkmode switch display in the menu."
+msgstr ""
+
+#: admin/admin-templates/template-advance-settings.php:30
+msgid "Display Switch in Menu"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:83
+#: admin/admin-templates/template-home-settings.php:85
+msgid "Documantation"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:82
+msgid "e.g Dark"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:75
+msgid "e.g Light"
+msgstr ""
+
+#: darklup.php:359
+msgid "Email Address"
+msgstr ""
+
+#: admin/admin-templates/template-general.php:38
+msgid "Enable Backend Darkmode"
+msgstr ""
+
+#: admin/admin-templates/template-general.php:33
+msgid "Enable Frontend Darkmode"
+msgstr ""
+
+#: admin/admin-templates/template-general.php:43
+msgid "Enable OS Aware Dark Mode"
+msgstr ""
+
+#: admin/admin-templates/template-general.php:39
+msgid ""
+"Enable the backend darkmode to display a darkmode switch button in the admin "
+"bar for the admins on the backend."
+msgstr ""
+
+#: darklup.php:350
+msgid ""
+"Enter your license key here, to activate the product, and get full feature "
+"updates and premium support."
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:96
+msgid "Exclude Pages"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:93
+msgid ""
+"Facing any technical issue? Need consultation with an expert? Simply Take "
+"our live chat support option. We will respond to you shortly. We are ready "
+"to help you"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:105
+msgid "FEATURE REQUEST"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:38
+msgid "Front-End Darkmode Color Preset"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:32
+msgid "Front-End Darkmode Color Preset Enabled"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:94
+msgid "GET SUPPORT"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:126
+msgid "GIVE A 5* RATING"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:124
+msgid "HAPPY WITH DARKLUP?"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:92
+msgid "Help and Support"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:22
+msgid "Home"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:52
+#: admin/admin-templates/template-home-settings.php:61
+#: admin/admin-templates/template-home-settings.php:70
+msgid "How to install darklup wp dark mode plugin"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://darklup.com/"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:125
+msgid ""
+"If you are really happy and satisfied with our plugin, We hardly request you "
+"to give us a 5* rating in WordPress Org."
+msgstr ""
+
+#: admin/admin-templates/template-image-settings.php:44
+msgid "Image Opacity"
+msgstr ""
+
+#: admin/setting-fields/image-switcher.php:23
+msgid "Image Radio Field"
+msgstr ""
+
+#: admin/setting-fields/image-repeater.php:22
+msgid "Image Repeater Field"
+msgstr ""
+
+#: admin/admin-templates/template-image-settings.php:24
+msgid "IMAGE SETTINGS"
+msgstr ""
+
+#: darklup.php:280
+msgid "Invalid"
+msgstr ""
+
+#: page-builder/elementor-widget/elementor-darkmode-switch.php:72
+#: page-builder/wpbakery/vc-darkmode-switch.php:43
+msgid "Left"
+msgstr ""
+
+#: darklup.php:355
+msgid "License code"
+msgstr ""
+
+#: darklup.php:294
+msgid "License Expired on"
+msgstr ""
+
+#: darklup.php:287
+msgid "License Type"
+msgstr ""
+
+#: inc/class-dark-inline-css.php:84
+msgid "Light"
+msgstr ""
+
+#: admin/setting-fields/image-repeater.php:64
+msgid "Light Image Url"
+msgstr ""
+
+#: admin/admin-templates/template-image-settings.php:38
+msgid "Logo Dark Url"
+msgstr ""
+
+#: admin/admin-templates/template-image-settings.php:32
+msgid "Logo Light Url"
+msgstr ""
+
+#: admin/setting-fields/multiple-select.php:21
+msgid "Multiple Select Field"
+msgstr ""
+
+#: admin/setting-fields/number.php:23
+msgid "Number Field"
+msgstr ""
+
+#: darklup.php:69
+msgid ""
+"Please activate your license to get full access to the theme, import demo "
+"data, core features, updates, premium support, etc."
+msgstr ""
+
+#: admin/inc/class-admin-page.php:17 admin/inc/class-admin-page.php:18
+msgid "plugin logo"
+msgstr ""
+
+#: page-builder/elementor-widget/elementor-darkmode-switch.php:80
+#: page-builder/wpbakery/vc-darkmode-switch.php:45
+msgid "Right"
+msgstr ""
+
+#: page-builder/wp-widget/widget-darkmode-switch.php:29
+msgid "Select darkmode switch."
+msgstr ""
+
+#: admin/setting-fields/select.php:22
+msgid "Select Field"
+msgstr ""
+
+#: admin/admin-templates/template-advance-settings.php:35
+msgid "Select Menu"
+msgstr ""
+
+#: page-builder/elementor-widget/elementor-darkmode-switch.php:58
+msgid "Select Style"
+msgstr ""
+
+#: page-builder/wpbakery/vc-darkmode-switch.php:29
+msgid "Select Switch Style"
+msgstr ""
+
+#: page-builder/wp-widget/widget-darkmode-switch.php:77
+msgid "Select Switch:"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:99
+msgid "Select the admin darkmode color."
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:39
+msgid "Select the front-end darkmode color."
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:97
+msgid "Select the pages where you don't want to show the dark mode switch"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:51
+msgid ""
+"Select the position of the floating dark mode switcher button on the "
+"frontend."
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:94
+msgid ""
+"Select the predefined admin darkmode background, text and link preset color."
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:33
+msgid "Select the predefined darkmode background, text and link preset color."
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:31
+msgid "Select the switcher button style for the frontend."
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:124
+msgid "Set admin custom background color."
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:148
+msgid "Set admin custom border color."
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:136
+msgid "Set admin custom link color."
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:142
+msgid "Set admin custom link hover color."
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:130
+msgid "Set admin custom text color."
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:64
+msgid "Set custom background color."
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:88
+msgid "Set custom border color."
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:76
+msgid "Set custom link color."
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:82
+msgid "Set custom link hover color."
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:70
+msgid "Set custom text color."
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:63
+msgid "Set dark mode text font size."
+msgstr ""
+
+#: admin/admin-templates/template-image-settings.php:54
+msgid "Set darkmode image."
+msgstr ""
+
+#: admin/admin-templates/template-image-settings.php:45
+msgid "Set image opacity."
+msgstr ""
+
+#: admin/admin-templates/template-image-settings.php:39
+msgid "Set logo dark mode url."
+msgstr ""
+
+#: admin/admin-templates/template-image-settings.php:34
+msgid "Set logo light mode url."
+msgstr ""
+
+#: page-builder/wpbakery/vc-darkmode-switch.php:32
+msgid "Set section bottom padding"
+msgstr ""
+
+#: admin/setting-fields/color-picker.php:22
+msgid "Set the color"
+msgstr ""
+
+#: admin/admin-templates/template-advance-settings.php:36
+msgid "Set the menu location"
+msgstr ""
+
+#: admin/admin.php:80
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:91
+msgid "Show Above Pages"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:86
+msgid "Show Above Posts"
+msgstr ""
+
+#: admin/admin-templates/template-general.php:48
+msgid "Show Floating Switch"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:92
+msgid "Show the dark mode switcher button above of all the pages."
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:87
+msgid "Show the dark mode switcher button above of all the post."
+msgstr ""
+
+#: admin/admin-templates/template-general.php:49
+msgid ""
+"Show the floating dark mode switcher button on the frontend for the users."
+msgstr ""
+
+#: darklup.php:275
+msgid "Status"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:22
+msgid "STYLE SETTINGS"
+msgstr ""
+
+#: darklup.php:307
+msgid "Support Expired on"
+msgstr ""
+
+#: page-builder/wpbakery/vc-darkmode-switch.php:38
+msgid "Switch Alignment"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:79
+msgid "Switch dark text."
+msgstr ""
+
+#: admin/setting-fields/switcher.php:23
+msgid "Switch Field"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:72
+msgid "Switch light text."
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:50
+msgid "Switch Position"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:30
+msgid "Switch Style"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:78
+msgid "Switch Text (Dark)"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:71
+msgid "Switch Text (Light)"
+msgstr ""
+
+#: admin/setting-fields/media-upload.php:22
+#: admin/setting-fields/text-area.php:22
+msgid "Text Area Field"
+msgstr ""
+
+#: admin/setting-fields/text.php:23
+msgid "Text Field"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:62
+msgid "Text Font Size"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:35
+msgid ""
+"The dark mode is good for your eyes: dark mode is way less harmful to your "
+"vision in the long run than the light mode."
+msgstr ""
+
+#: admin/setting-fields/css-editor.php:25
+msgid "This is CSS editor Field"
+msgstr ""
+
+#: admin/setting-fields/image-switcher.php:24
+msgid "This is image radio Field"
+msgstr ""
+
+#: admin/setting-fields/image-repeater.php:23
+msgid "This is image repeater Field"
+msgstr ""
+
+#: admin/setting-fields/multiple-select.php:22
+msgid "This is Multiple Select Field"
+msgstr ""
+
+#: admin/setting-fields/number.php:24
+msgid "This is number Field"
+msgstr ""
+
+#: admin/setting-fields/select.php:23
+msgid "This is select Field"
+msgstr ""
+
+#: admin/setting-fields/switcher.php:24
+msgid "This is switch Field"
+msgstr ""
+
+#: admin/setting-fields/media-upload.php:23
+#: admin/setting-fields/text-area.php:23
+msgid "This is Text Area Field"
+msgstr ""
+
+#: admin/setting-fields/text.php:24
+msgid "This is Text Field"
+msgstr ""
+
+#: admin/admin-templates/template-general.php:44
+msgid ""
+"This option will be served a dark mode of your website when their device "
+"preference is set to Dark Mode."
+msgstr ""
+
+#: admin/admin-templates/template-advance-settings.php:42
+msgid "Time Based Dark Mode"
+msgstr ""
+
+#: admin/admin-templates/template-advance-settings.php:55
+msgid "Time to end dark mode."
+msgstr ""
+
+#: admin/admin-templates/template-advance-settings.php:48
+msgid "Time to start dark mode."
+msgstr ""
+
+#: admin/setting-fields/class-settings-fields-base.php:47
+msgid "Title goes here"
+msgstr ""
+
+#: page-builder/wp-widget/widget-darkmode-switch.php:72
+msgid "Title:"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:56
+msgid "Top Left"
+msgstr ""
+
+#: admin/admin-templates/template-style-settings.php:55
+msgid "Top Right"
+msgstr ""
+
+#: admin/admin-templates/template-general.php:34
+msgid "Turn ON to enable the darkmode in the frontend."
+msgstr ""
+
+#: admin/setting-fields/media-upload.php:58
+msgid "Upload"
+msgstr ""
+
+#: darklup.php:278
+msgid "Valid"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:75
+msgid "VIEW MORE TUTORIALS"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:117
+msgid "Want to Admin customize colors?"
+msgstr ""
+
+#: admin/admin-templates/template-color-settings.php:57
+msgid "Want to Front-End customize colors?"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:84
+msgid ""
+"We have created a well organized and detailed documentation to get familiar "
+"with Darklup- WP Dark Mode. You will easily understand how our plugin will "
+"work."
+msgstr ""
+
+#: darklup.php:364
+msgid ""
+"We will send update news of this product by this email address, don't worry, "
+"we hate spam"
+msgstr ""
+
+#: admin/admin-templates/template-home-settings.php:34
+msgid "Welcome to Dark Mode for WordPress"
+msgstr ""
+
+#: darklup.php:16
+msgid "You should not access this file directly!."
+msgstr ""
+
+#: darklup.php:25
+msgid "You should not access this file directly.!"
+msgstr ""
+
+#: darklup.php:320
+msgid "Your License Key"
+msgstr ""
